@@ -34,7 +34,7 @@
 
 ---
 
-![Fernando Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dracula" height=200em />
 
 ## Contacts:
 

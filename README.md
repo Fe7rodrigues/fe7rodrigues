@@ -7,8 +7,7 @@
 <tr>
     <td>
 
-#### I'm a distinguished junior front end developer
-
+#### I'm a junior front end developer.
 My work consists of developing rich user interfaces and experiences for websites and applications using HTML, CSS, JavaScript and other web technologies.
 
 In addition, I'm responsible for prototyping and composing responsive layouts, creating interface styles, coding interactive features, and creating animations and graphics for websites. Other responsibilities include testing, debugging and fixing performance issues and creating technical documentation for other developers.

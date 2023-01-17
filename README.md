@@ -7,7 +7,15 @@
 <tr>
     <td>
 
-#### I consider myself a dedicated person who seeks to evolve and learn more every day, I am passionate about web development, I always try to do my best and dedicate myself so that I can be a great professional in the area, always seeking to be ready to overcome any challenge. 😀
+#### I'm a distinguished junior front end developer
+
+My work consists of developing rich user interfaces and experiences for websites and applications using HTML, CSS, JavaScript and other web technologies.
+
+In addition, I'm responsible for prototyping and composing responsive layouts, creating interface styles, coding interactive features, and creating animations and graphics for websites. Other responsibilities include testing, debugging and fixing performance issues and creating technical documentation for other developers.
+
+As a junior front end developer, I also develop websites using modern frameworks such as Angular, React, Vue and others, and I keep up to date with the latest web trends and technologies.
+
+My experience in design, usability. 😀
 
   </br>
   

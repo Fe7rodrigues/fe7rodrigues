@@ -1,32 +1,23 @@
-### Hi! I'm Fernando Rodrigues🤟🏻
+<!--Cabeçalho-->
+<!--header-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6900AB&height=120&section=header"/>
 
-<table border="0px">
-<tr>
-   <td>A little about myself</td>
-</tr>
-<tr>
-    <td>
+<!--Texto de apresentação-->
+<!--presentation text-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=613C78&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernando+Rodrigues;Tenho+26+anos;Sou+Brasileiro;Cursando+Análise+e+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-I'm a web developer with a focus on front-end development. I love creating projects and working together with other programmers.
+<!--Estatísticas-->
+<!--Stats-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&count_private=true&hide_border=true&title_color=613C78&icon_color=613C78&text_color=c9d1d9&bg_color=0d1117" alt="Thales Umekawa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe7rodrigues&layout=compact&hide_border=true&title_color=613C78&text_color=ff91a4&bg_color=0d1117" />
+    <br>
+    <br> 
+</div>
 
-My main interests include HTML, CSS, JavaScript, ReactJS and other web technologies. I have been working with these technologies for over a year and I strive to improve my skills every day.
-
-In this profile, you will find my personal projects and some work done. Also, I post articles about web development and related technologies to help other programmers.
-
-  </br>
-  
-- 🎓 Studying Systems Analysis and Development - UNIP
-
-- 📚 Graduated from One Oracle Next Education
-
-- 🌱 Exploring new technologies, techniques and solutions.
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
-   </td>
-</table>
-
-## 🚀 Minhas Skills
-
+<!--Principais habilidades-->
+<!--Main skills-->
+ ### Main skills:
 <div style="display: inline_block"><br>
    <img align="center" alt="fernando-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="fernando-css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -40,19 +31,36 @@ In this profile, you will find my personal projects and some work done. Also, I 
     <img align="center" alt="fernando-github" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
    </div> <br>
 
----
+<!--O que estou estudando-->
+<!--Studying in this moment-->
+### Studying in this moment:
+<div style="display: inline_block"><br>
+<img align="center" alt="fernando-bootstrap" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" alt="fernando-typescript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="fernando-drupal" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain.svg" />
+<img align="center" alt="fernando-php" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ </div> <br>
 
-## ⭐ Informações sobre minha conta GitHub
+<!--Contador de visitantes-->
+<!--Visitors count-->
+<div align="center">
+<br>
+  <p align="centre">
+    <b>Visitors Count</b>
+  </p>  
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{Fe7rodrigues}/count.svg" />
+</p> 
+<br>
+</div>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dark&line_height=27" alt="github stats"/>
-</a>
+<!--Meus links-->
+<!--my links-->
+<div align="center">
+  <a href = "mailto:fe7rodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fe7rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<a href="https://github.com/Gurupreet">
-  <img align="right" padding-left"2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe7rodrigues&theme=dark&hide_langs_below=1" />
-</a>
-                                                                                                                                
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Fernando Rodrigues](https://img.shields.io/badge/-fe7rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fe7rodrigues/)](https://www.linkedin.com/in/fe7rodrigues/)
-[![Gmail Badge](https://img.shields.io/badge/-fe7rodrigues@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fe7rodrigues@gmail.com)](mailto:fe7rodrigues@gmail.com)
+<!--Rodapé-->
+<!--footer-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6900AB&height=120&section=footer"/>

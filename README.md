@@ -7,20 +7,17 @@
 <tr>
     <td>
 
-#### I'm a junior front end developer.
-My work consists of developing rich user interfaces and experiences for websites and applications using HTML, CSS, JavaScript and other web technologies.
+I'm a web developer with a focus on front-end development. I love creating projects and working together with other programmers.
 
-In addition, I'm responsible for prototyping and composing responsive layouts, creating interface styles, coding interactive features, and creating animations and graphics for websites. Other responsibilities include testing, debugging and fixing performance issues and creating technical documentation for other developers.
+My main interests include HTML, CSS, JavaScript, ReactJS and other web technologies. I have been working with these technologies for over a year and I strive to improve my skills every day.
 
-As a junior front end developer, I also develop websites using modern frameworks such as Angular, React, Vue and others, and I keep up to date with the latest web trends and technologies.
-
-My experience in design, usability. 😀
+In this profile, you will find my personal projects and some work done. Also, I post articles about web development and related technologies to help other programmers.
 
   </br>
   
 - 🎓 Studying Systems Analysis and Development - UNIP
 
-- 📚 I am currently studying: One Oracle Next Education
+- 📚 Graduated from One Oracle Next Education
 
 - 🌱 Exploring new technologies, techniques and solutions.
 

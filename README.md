@@ -46,7 +46,7 @@ Atualmente, estou me aprofundando em:
 ## 🌐 Vamos Conectar?
 
 - 💼 LinkedIn: [Fernando Rodrigues](https://www.linkedin.com/in/fe7rodrigues)  
-- 🔗 GitHub: [Fe7rodrigues](https://github.com/Fe7rodrigues)
+- ✉️ Gmail: [Fe7rodrigues](malito:fe7rodrigues@gmail.com)
 
 ---
 
